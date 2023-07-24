@@ -1,16 +1,26 @@
-# beauty_product_shop
+# Beauty Product Shop Screen
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+Built with [Flutter](https://flutter.dev/) :star2:
 
-This project is a starting point for a Flutter application.
+![Banner of the images](showcase.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - Design one screen that allows the user to add a product to cart. Follow on [Instagram](https://www.instagram.com/mobterest/) to see the animation side
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feedback
+
+- Feel free to send feedback . Feature requests are always welcome. If there's anything you'd like to chat about, please don't hesitate to [reach out](https://www.instagram.com/mobterest/).
+
+## Build process
+
+- Follow the [Flutter Guide](https://flutter.dev/docs/get-started/install) to get started in building with Flutter.
+- Clone or download the repo.
+- Run ``` flutter pub get ``` to install the necessary packages on your command line that's navigated to the root of the project.
+- Invoke the ``` flutter run ``` command.
+
+## Acknowledgements
+
+Thanks to [Flutter](https://flutter.dev/) and [Visual Studio Code](https://code.visualstudio.com/) for supporting us with amazing products.
